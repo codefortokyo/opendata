@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "自治体名": "品川区", "自治体名(英語)": "Shinagawa City", "よみがな": "しながわく", "都道府県名": "東京都", "自治体公式サイト": "www.city.shinagawa.tokyo.jp", "郵便番号": "142-8715", "住所": "東京都品川区広町2-1-36", "電話番号": "03-3777-1111", "市役所緯度": 35.609196, "市役所経度": 139.730108, "標準地域コード": "http:\/\/statdb.nstac.go.jp\/lod\/sac\/C13109" }, "geometry": { "type": "Point", "coordinates": [ 139.730108, 35.6091959 ] } }
+]
+}

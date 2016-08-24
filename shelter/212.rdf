@@ -1,0 +1,1009 @@
+<rdf:RDF
+    xmlns:jrrk="http://purl.org/jrrk#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:sac="http://statdb.nstac.go.jp/lod/sac/C"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pc="http://purl.org/procurement/public-contracts#"
+    xmlns:odp="http://odp.jig.jp/odp/1.0#"
+    xmlns:emergencyfacility="http://odp.jig.jp/jp/tokyo/shinagawa/212"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gr="http://purl.org/goodrelations/v1#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:qb="http://purl.org/linked-data/cube#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:georss="http://www.georss.org/georss"
+    xmlns:cal="http://www.w3.org/2002/12/cal/icaltzd#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" > 
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%A4%A7%E4%BA%951%EF%BD%9E3%E4%B8%81%E7%9B%AE%E3%80%81%E6%88%B8%E8%B6%8A1%E4%B8%81%E7%9B%AE%E3%80%813%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE%E3%80%811%EF%BD%9E2%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E5%BA%83%E7%94%BA2%E4%B8%81%E7%9B%AE%E3%80%81%E4%BA%8C%E8%91%891%E4%B8%81%E7%9B%AE%E3%80%812%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8">
+    <rdfs:label>大井1～3丁目、戸越1丁目、3丁目の一部、西品川3丁目、1～2丁目の各一部、広町2丁目、二葉1丁目、2丁目の一部</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%A5%BF%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%954%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>西大井2丁目(一部)、西大井4丁目全域、西大井6丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%88%B8%E8%B6%8A%E5%B0%8F%E5%AD%A6%E6%A0%A135.610762139.720973">
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%B1%8A%E7%94%BA1%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%B1%8A%E7%94%BA2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.610762</geo:lat>
+    <jrrk:address>品川区豊町2-1-20</jrrk:address>
+    <rdfs:label xml:lang="en">Togoshi E. Sch.</rdfs:label>
+    <jrrk:notesAboutTarget>豊町1丁目町会、豊町2丁目親和会</jrrk:notesAboutTarget>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <schema:telephone>03-3781-2833</schema:telephone>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.720973</geo:long>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdfs:label xml:lang="ja">戸越小学校</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E9%AE%AB%E6%B5%9C%E5%B0%8F%E5%AD%A6%E6%A0%A135.601716139.740669">
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%9D%B1%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.740669</geo:long>
+    <rdfs:label xml:lang="ja">鮫浜小学校</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.601716</geo:lat>
+    <jrrk:address>品川区東大井2-10-14</jrrk:address>
+    <jrrk:notesAboutTarget>鮫洲北町会、△大井元芝町会、△鮫洲曙町会、鮫洲南町会、北浜川東町会、北浜川仲町会</jrrk:notesAboutTarget>
+    <schema:telephone>03-3474-4923</schema:telephone>
+    <rdfs:label xml:lang="en">Samehama E. Sch.</rdfs:label>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%88%B8%E8%B6%8A2%E3%80%814%E4%B8%81%E7%9B%AE%E3%80%813%E3%80%815%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D1%EF%BD%9E2%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E8%B1%8A%E7%94%BA1%EF%BD%9E3%E4%B8%81%E7%9B%AE">
+    <rdfs:label>戸越2、4丁目、3、5丁目の各一部、西品川1～2丁目の各一部、豊町1～3丁目</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%97%A7%E6%9D%9C%E6%9D%BE%E5%B0%8F%E5%AD%A6%E6%A0%A1%28%E6%9D%9C%E6%9D%BE%E3%83%9B%E3%83%BC%E3%83%A0%2935.606135139.722764">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.606135</geo:lat>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.722764</geo:long>
+    <rdfs:label xml:lang="en">Tosho E. Sch.</rdfs:label>
+    <jrrk:address>品川区豊町4-24-15</jrrk:address>
+    <rdfs:label xml:lang="ja">旧杜松小学校(杜松ホーム)</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%B1%8A%E7%94%BA4%E4%B8%81%E7%9B%AE%EF%BC%88%E4%B8%80%E9%83%A8%EF%BC%89%E3%80%81%E8%B1%8A%E7%94%BA5%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%BA%8C%E8%91%892%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%BA%8C%E8%91%893%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:notesAboutTarget>豊町4丁目町会、豊町5丁目町会、二葉中央町会、二葉3丁目町会</jrrk:notesAboutTarget>
+    <schema:telephone>03-6426-8213 </schema:telephone>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%BE%8C%E5%9C%B0%E5%B0%8F%E5%AD%A6%E6%A0%A135.621568139.708571">
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.708571</geo:long>
+    <schema:telephone>03-3781-0890</schema:telephone>
+    <jrrk:address>品川区小山2-4-6</jrrk:address>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <rdfs:label xml:lang="en">Usiroji E. Sch.</rdfs:label>
+    <jrrk:notesAboutTarget>小山1丁目町会、小山2丁目東部町会、小山2丁目西部町会</jrrk:notesAboutTarget>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%B0%8F%E5%B1%B11%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B0%8F%E5%B1%B12%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdfs:label xml:lang="ja">後地小学校</rdfs:label>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.621568</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%B9%B3%E5%A1%9A1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B9%B3%E5%A1%9A2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%8D%8F%E5%8E%9F1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>平塚1丁目(一部)、平塚2丁目全域、荏原1丁目(一部)、荏原2丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E4%B8%AD%E5%BB%B65%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B04%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>中延5丁目(一部)、旗の台4丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%B0%8F%E5%B1%B16%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%B0%8F%E5%B1%B17%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%8D%8F%E5%8E%9F6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F7%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B01%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>小山6丁目全域、小山7丁目全域、荏原6丁目(一部)、荏原7丁目全域、旗の台1丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%9E%97%E8%A9%A6%E3%81%AE%E6%A3%AE%E5%85%AC%E5%9C%9235.625238139.703786">
+    <schema:description xml:lang="ja">大地震時に発生する延焼火災等の危険から避難者の身の安全を確保し、火勢の弱まりを待つ場所</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.703786</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.625238</geo:lat>
+    <jrrk:address>品川区小山台、目黒区下目黒</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%8D%8F%E5%8E%9F2%EF%BD%9E5%E4%B8%81%E7%9B%AE%E3%80%811%E3%80%816%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E5%B0%8F%E5%B1%B11%EF%BD%9E5%E4%B8%81%E7%9B%AE%E3%80%81%E5%B0%8F%E5%B1%B1%E5%8F%B01%EF%BD%9E2%E4%B8%81%E7%9B%AE%E3%80%81%E6%88%B8%E8%B6%8A5%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE%E3%80%812%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E8%A5%BF%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B04%EF%BD%9E5%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E6%9D%B1%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE%E3%80%81%E5%B9%B3%E5%A1%9A1%EF%BD%9E3%E4%B8%81%E7%9B%AE"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E5%BA%83%E5%9F%9F%E9%81%BF%E9%9B%A3%E5%A0%B4%E6%89%80"/>
+    <rdfs:label xml:lang="ja">林試の森公園</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%A5%BF%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%B1%8A%E7%94%BA1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>西品川1丁目(一部)、西品川2丁目(一部)、西品川3丁目(一部)、豊町1丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%9D%B1%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%B8%AD%E5%BB%B64%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>東中延2丁目(一部)、戸越6丁目(一部)、中延4丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%88%B8%E8%B6%8A%E5%85%AC%E5%9C%92%E4%B8%80%E5%B8%AF35.610598139.722376">
+    <schema:description xml:lang="ja">大地震時に発生する延焼火災等の危険から避難者の身の安全を確保し、火勢の弱まりを待つ場所</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.722376</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.610598</geo:lat>
+    <jrrk:address>品川区豊町</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%88%B8%E8%B6%8A2%E3%80%814%E4%B8%81%E7%9B%AE%E3%80%813%E3%80%815%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D1%EF%BD%9E2%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E8%B1%8A%E7%94%BA1%EF%BD%9E3%E4%B8%81%E7%9B%AE"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E5%BA%83%E5%9F%9F%E9%81%BF%E9%9B%A3%E5%A0%B4%E6%89%80"/>
+    <rdfs:label xml:lang="ja">戸越公園一帯</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212JR%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%83%BB%E5%93%81%E5%B7%9D%E5%8C%BA%E5%BD%B9%E6%89%80%E4%B8%80%E5%B8%AF35.609226139.730186">
+    <schema:description xml:lang="ja">大地震時に発生する延焼火災等の危険から避難者の身の安全を確保し、火勢の弱まりを待つ場所</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.730186</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.609226</geo:lat>
+    <jrrk:address>品川区広町</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%A4%A7%E4%BA%951%EF%BD%9E3%E4%B8%81%E7%9B%AE%E3%80%81%E6%88%B8%E8%B6%8A1%E4%B8%81%E7%9B%AE%E3%80%813%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE%E3%80%811%EF%BD%9E2%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E5%BA%83%E7%94%BA2%E4%B8%81%E7%9B%AE%E3%80%81%E4%BA%8C%E8%91%891%E4%B8%81%E7%9B%AE%E3%80%812%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E5%BA%83%E5%9F%9F%E9%81%BF%E9%9B%A3%E5%A0%B4%E6%89%80"/>
+    <rdfs:label xml:lang="ja">JRアパート・品川区役所一帯</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%97%A5%E9%87%8E%E5%AD%A6%E5%9C%9235.624505139.728169">
+    <jrrk:address>品川区東五反田2-11-1</jrrk:address>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.728169</geo:long>
+    <schema:telephone>03-3441-3200</schema:telephone>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.624505</geo:lat>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B01%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B02%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B05%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B01%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B02%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <rdfs:label xml:lang="ja">日野学園</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <rdfs:label xml:lang="en">Integrated E. &amp; Jr. H. Sch. Hino-gakuen</rdfs:label>
+    <jrrk:notesAboutTarget>五反田一丁目町会、東五反田みづほ町会、五反田中部町会、五反田東口町会、五反田睦町会、西五反田一・二・三町会、島津山自生会、都営東五反田二丁目アパート自治会</jrrk:notesAboutTarget>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%A4%A7%E4%BA%957%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%953%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>大井7丁目(一部)、西大井2丁目(一部)、西大井3丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E8%8D%8F%E5%8E%9F%E5%B9%B3%E5%A1%9A%E5%AD%A6%E5%9C%9235.615325139.710101">
+    <jrrk:notesAboutTarget>荏原平塚学園、平塚1丁目南部町会、平塚3丁目町会、東中延1丁目町会、西中延自治会</jrrk:notesAboutTarget>
+    <jrrk:address>品川区平塚3-16-26</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%A5%BF%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%8D%8F%E5%8E%9F2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A5%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B9%B3%E5%A1%9A1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B9%B3%E5%A1%9A3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.615325</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.710101</geo:long>
+    <rdfs:label xml:lang="ja">荏原平塚学園</rdfs:label>
+    <rdfs:label xml:lang="en">Integrated E. &amp; Jr. H. Sch. Ebara-hiratsuka-gakuen</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <schema:telephone>03-3782-7770</schema:telephone>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E8%8D%8F%E5%8E%9F%EF%BC%88%E5%B9%B3%E5%A1%9A%E5%B0%8F%E5%AD%A6%E6%A0%A1%E8%B7%A1%E5%9C%B0%EF%BC%8935.615344139.707492">
+    <rdfs:label xml:lang="ja">スクエア荏原（平塚小学校跡地）</rdfs:label>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.707492</geo:long>
+    <jrrk:address>品川区荏原4-5-28</jrrk:address>
+    <schema:telephone>03-5788-5321</schema:telephone>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.615344</geo:lat>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:notesAboutTarget>平塚4丁目町会、荏原3丁目町会、荏原4丁目町会</jrrk:notesAboutTarget>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%A5%BF%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%8D%8F%E5%8E%9F4%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%BB%B6%E5%B1%B1%E5%B0%8F%E5%AD%A6%E6%A0%A135.609012139.708082">
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%B8%AD%E5%BB%B63%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E4%B8%AD%E5%BB%B63%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.609012</geo:lat>
+    <schema:telephone>03-3781-3806</schema:telephone>
+    <rdfs:label xml:lang="ja">延山小学校</rdfs:label>
+    <jrrk:notesAboutTarget>中延2丁目町会、西中延2丁目町会、中延3丁目町会、西中延3丁目町会</jrrk:notesAboutTarget>
+    <rdfs:label xml:lang="en">Enzan E. Sch.</rdfs:label>
+    <jrrk:address>品川区西中延2-17-5</jrrk:address>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.708082</geo:long>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E8%8A%B3%E6%B0%B4%E5%B0%8F%E5%AD%A6%E6%A0%A135.619255139.724717">
+    <jrrk:notesAboutTarget>大崎一二三町会、大崎三五町会、大崎四丁目町会、大崎居木橋町会、大崎ウエストシティタワーズ自治会</jrrk:notesAboutTarget>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.724717</geo:long>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%A4%A7%E5%B4%8E1%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E5%B4%8E2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E5%B4%8E3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E5%B4%8E4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%A4%A7%E5%B4%8E5%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:telephone>03-3491-0071</schema:telephone>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.619255</geo:lat>
+    <jrrk:address>品川区大崎3-12-22</jrrk:address>
+    <rdfs:label xml:lang="en">Hosui E. Sch.</rdfs:label>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdfs:label xml:lang="ja">芳水小学校</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B01%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B02%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B05%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B06%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B07%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B08%E4%B8%81%E7%9B%AE%E3%80%81%E5%A4%A7%E5%B4%8E4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>西五反田1丁目(一部)、西五反田2丁目(一部)、西五反田3丁目(一部)、西五反田5丁目(一部)、西五反田6丁目、西五反田7丁目、西五反田8丁目、大崎4丁目(一部)、荏原1丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%B0%8F%E5%B1%B1%E5%8F%B01%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%B0%8F%E5%B1%B1%E5%8F%B02%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>小山台1丁目全域、小山台2丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%88%B8%E8%B6%8A3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A4%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%88%B8%E8%B6%8A5%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>戸越3丁目(一部)、戸越4丁目全域、戸越5丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%A5%BF%E5%A4%A7%E4%BA%955%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>西大井5丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%A4%A7%E4%BA%95%E7%AB%B6%E9%A6%AC%E5%A0%B4%E3%83%BB%E3%81%97%E3%81%AA%E3%81%8C%E3%82%8F%E5%8C%BA%E6%B0%91%E5%85%AC%E5%9C%9235.593274139.739123">
+    <schema:description xml:lang="ja">大地震時に発生する延焼火災等の危険から避難者の身の安全を確保し、火勢の弱まりを待つ場所</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.739123</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.593274</geo:lat>
+    <jrrk:address>品川区勝島</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%88%B8%E8%B6%8A6%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%951%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%81%E5%A4%A7%E4%BA%954%EF%BD%9E7%E4%B8%81%E7%9B%AE%E3%80%81%E4%B8%AD%E5%BB%B64%E3%80%816%E4%B8%81%E7%9B%AE%E3%80%815%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%951%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%81%E6%9D%B1%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%951%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%81%E4%BA%8C%E8%91%893%EF%BD%9E4%E4%B8%81%E7%9B%AE%E3%80%812%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E8%B1%8A%E7%94%BA4%EF%BD%9E6%E4%B8%81%E7%9B%AE"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E5%BA%83%E5%9F%9F%E9%81%BF%E9%9B%A3%E5%A0%B4%E6%89%80"/>
+    <rdfs:label xml:lang="ja">大井競馬場・しながわ区民公園</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/1%E5%8F%B7%E6%A3%9F%EF%BD%9E10%E5%8F%B7%E6%A3%9F_%E5%85%AB%E6%BD%AE5%E4%B8%81%E7%9B%AE1%EF%BD%9E3%E7%95%AA_%E3%80%81%E5%93%81%E5%B7%9D%E7%B7%8F%E5%90%88%E7%A6%8F%E7%A5%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%80%81%E5%85%AB%E6%BD%AE1%E4%B8%81%E7%9B%AE%EF%BD%9E%E5%85%AB%E6%BD%AE3%E4%B8%81%E7%9B%AE">
+    <rdfs:label>1号棟～10号棟(八潮5丁目1～3番)、品川総合福祉センター、八潮1丁目～八潮3丁目</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%8F%B0%E5%A0%B4%E5%B0%8F%E5%AD%A6%E6%A0%A135.621383139.743185">
+    <jrrk:notesAboutTarget>北品川1丁目町会、都営北品川アパート自治会、都営北品川第2アパート自治会、八ツ山町会、天王洲会、都営天王洲団地自治会、東品川1、3丁目町会、都営東品川第4アパート自治会、都営東品川7棟自治会</jrrk:notesAboutTarget>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.743185</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.621383</geo:lat>
+    <rdfs:label xml:lang="ja">台場小学校</rdfs:label>
+    <rdfs:label xml:lang="en">Daiba E. Sch.</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:address>品川区東品川1-8-30</jrrk:address>
+    <schema:telephone>03-3471-4942</schema:telephone>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D5%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/11%E5%8F%B7%E6%A3%9F%EF%BD%9E23%E5%8F%B7%E6%A3%9F%E3%80%8151%EF%BD%9E69%E5%8F%B7%E6%A3%9F%E3%80%81%E5%85%AB%E6%BD%AE%E3%82%8F%E3%81%8B%E3%81%8F%E3%81%95%E8%8D%98_%E5%85%AB%E6%BD%AE5%E4%B8%81%E7%9B%AE3%EF%BD%9E5%E7%95%AA%E3%80%8110%EF%BD%9E12%E7%95%AA_">
+    <rdfs:label>11号棟～23号棟、51～69号棟、八潮わかくさ荘(八潮5丁目3～5番、10～12番)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%9D%B1%E4%BA%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A635.604224139.682784">
+    <schema:description xml:lang="ja">大地震時に発生する延焼火災等の危険から避難者の身の安全を確保し、火勢の弱まりを待つ場所</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.682784</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.604224</geo:lat>
+    <jrrk:address>目黒区大岡山、大田区石川町</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%8D%8F%E5%8E%9F7%E4%B8%81%E7%9B%AE%E3%80%816%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B01%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%81%E5%B0%8F%E5%B1%B16%EF%BD%9E7%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E4%B8%AD%E5%BB%B62%EF%BD%9E3%E4%B8%81%E7%9B%AE%E3%80%81%E4%B8%AD%E5%BB%B63%E4%B8%81%E7%9B%AE%E3%80%812%E3%80%815%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E5%BA%83%E5%9F%9F%E9%81%BF%E9%9B%A3%E5%A0%B4%E6%89%80"/>
+    <rdfs:label xml:lang="ja">東京工業大学</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%A4%A9%E7%8E%8B%E6%B4%B2%E3%82%A2%E3%82%A4%E3%83%AB%E5%91%A8%E8%BE%BA35.620331139.750215">
+    <schema:description xml:lang="ja">大地震時に発生する延焼火災等の危険から避難者の身の安全を確保し、火勢の弱まりを待つ場所</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.750215</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.620331</geo:lat>
+    <jrrk:address>品川区東品川</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%9D%B1%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D1%E3%80%813%E4%B8%81%E7%9B%AE%E3%80%812%E3%80%814%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E5%BA%83%E5%9F%9F%E9%81%BF%E9%9B%A3%E5%A0%B4%E6%89%80"/>
+    <rdfs:label xml:lang="ja">天王洲アイル周辺</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%A4%A7%E4%BA%955%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>大井5丁目全域、西大井1丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%B0%8F%E5%B1%B13%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%B0%8F%E5%B1%B14%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%8D%8F%E5%8E%9F5%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>小山3丁目全域、小山4丁目全域、荏原5丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E7%AC%AC%E4%B8%89%E6%97%A5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A135.632801139.723819">
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B01%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B04%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B05%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%B8%8A%E5%A4%A7%E5%B4%8E1%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%B8%8A%E5%A4%A7%E5%B4%8E2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%B8%8A%E5%A4%A7%E5%B4%8E3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.632801</geo:lat>
+    <schema:telephone>03-3441-7780</schema:telephone>
+    <rdfs:label xml:lang="en">Dai-san-hino E. Sch.</rdfs:label>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.723819</geo:long>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:address>品川区上大崎1-19-19</jrrk:address>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdfs:label xml:lang="ja">第三日野小学校</rdfs:label>
+    <jrrk:notesAboutTarget>池田山町会、袖が崎町会、相生会、上大崎一丁目町会、上大崎一丁目愛誠会、上大崎一丁目第一愛誠会、上大崎池の谷町会、上大崎目黒駅前町会、上大崎三丁目町会、目黒駅前西口町会、中丸親和町会、上大崎長者丸町会</jrrk:notesAboutTarget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E4%B8%8A%E5%A4%A7%E5%B4%8E4%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B04%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B05%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B0%8F%E5%B1%B11%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B0%8F%E5%B1%B1%E5%8F%B01%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>上大崎4丁目全域、西五反田3丁目(一部)、西五反田4丁目全域、西五反田5丁目(一部)、小山1丁目(一部)、小山台1丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E7%AC%AC%E4%BA%8C%E5%BB%B6%E5%B1%B1%E5%B0%8F%E5%AD%A6%E6%A0%A135.61012139.703613">
+    <rdfs:label xml:lang="ja">第二延山小学校</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <rdfs:label xml:lang="en">Dai-ni-enzan E. Sch.</rdfs:label>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.61012</geo:lat>
+    <jrrk:address>品川区旗の台1-6-1</jrrk:address>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:notesAboutTarget>小山6丁目町会、小山7丁目町会、荏原6丁目町会、荏原7丁目町会、旗の台1丁目町会</jrrk:notesAboutTarget>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%B0%8F%E5%B1%B16%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%B0%8F%E5%B1%B17%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%8D%8F%E5%8E%9F6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F7%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B01%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <schema:telephone>03-3781-1466</schema:telephone>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.703613</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%8D%97%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D5%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>南品川1丁目(一部)、南品川2丁目(一部)、南品川3丁目(一部)、南品川4丁目(一部)、南品川5丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%9D%B1%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>東大井1丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>中延1丁目全域、中延2丁目(一部)、西中延1丁目(一部)、荏原6丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%97%97%E3%81%AE%E5%8F%B03%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B05%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B06%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>旗の台3丁目全域、旗の台5丁目全域、旗の台6丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E5%BA%83%E7%94%BA1%E4%B8%81%E7%9B%AE%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D1%EF%BD%9E3%E3%80%815%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%814%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8">
+    <rdfs:label>北品川2丁目の一部、広町1丁目、南品川1～3、5～6丁目、4丁目の一部</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E4%B8%AD%E5%BB%B64%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%B8%AD%E5%BB%B65%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%B8%AD%E5%BB%B66%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%B1%8A%E7%94%BA6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%BA%8C%E8%91%894%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>中延4丁目全域、中延5丁目(一部)、中延6丁目(一部)、東中延2丁目(一部)、豊町6丁目(一部)、戸越6丁目(一部)、二葉4丁目(一部)、西大井6丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%8D%8F%E5%8E%9F1%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E4%B8%8A%E5%A4%A7%E5%B4%8E1%EF%BD%9E4%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B03%E3%80%815%E3%80%816%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B04%E4%B8%81%E7%9B%AE%E3%80%81%E2%91%A03%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8">
+    <rdfs:label>荏原1丁目の一部、上大崎1～4丁目、西五反田3、5、6丁目の各一部、東五反田4丁目、①3丁目の各一部</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A135.606916139.748971">
+    <schema:telephone>03-3471-6331</schema:telephone>
+    <rdfs:label xml:lang="ja">都立産業技術高等専門学校</rdfs:label>
+    <jrrk:address>品川区東大井1-10-40</jrrk:address>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.606916</geo:lat>
+    <rdfs:label xml:lang="en">Tokyo Metropolitan Coll. of Industrial Technology</rdfs:label>
+    <jrrk:notesAboutTarget>△鮫洲曙町会</jrrk:notesAboutTarget>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%9D%B1%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.748971</geo:long>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%B0%8F%E5%B1%B11%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B0%8F%E5%B1%B12%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>小山1丁目(一部)、小山2丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E4%BC%8A%E8%97%A4%E5%AD%A6%E5%9C%9235.600152139.726095">
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%A4%A7%E4%BA%955%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdfs:label xml:lang="ja">伊藤学園</rdfs:label>
+    <jrrk:notesAboutTarget>大井滝王子町会、西大井1丁目町会</jrrk:notesAboutTarget>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.600152</geo:lat>
+    <jrrk:address>品川区大井5-1-37</jrrk:address>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <rdfs:label xml:lang="en">Integrated E. &amp; Jr. H. Sch. Ito-gakuen</rdfs:label>
+    <schema:telephone>03-3771-3374</schema:telephone>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.726095</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%A4%A7%E5%8E%9F%E5%B0%8F%E5%AD%A6%E6%A0%A135.607323139.715998">
+    <jrrk:notesAboutTarget>東中延2丁目町会、戸越6丁目町会</jrrk:notesAboutTarget>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.715998</geo:long>
+    <rdfs:label xml:lang="ja">大原小学校</rdfs:label>
+    <schema:telephone>03-3781-4487</schema:telephone>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%9D%B1%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%B8%AD%E5%BB%B64%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.607323</geo:lat>
+    <jrrk:address>品川区戸越6-17-3</jrrk:address>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <rdfs:label xml:lang="en">Ohara E. Sch.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%BA%90%E6%B0%8F%E5%89%8D%E5%B0%8F%E5%AD%A6%E6%A0%A135.603448139.711677">
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdfs:label xml:lang="en">Genjimae E. Sch.</rdfs:label>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.603448</geo:lat>
+    <schema:telephone>03-3781-0040</schema:telephone>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E4%B8%AD%E5%BB%B64%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%B8%AD%E5%BB%B65%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%B8%AD%E5%BB%B66%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%B1%8A%E7%94%BA6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%BA%8C%E8%91%894%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:notesAboutTarget>中延4丁目町会、荏原町町会、△東中三町会、中延6丁目町会</jrrk:notesAboutTarget>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:address>品川区中延6-2-18</jrrk:address>
+    <rdfs:label xml:lang="ja">源氏前小学校</rdfs:label>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.711677</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%B1%8A%E7%94%BA1%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%B1%8A%E7%94%BA2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>豊町1丁目全域、豊町2丁目全域、西品川1丁目(一部)、西品川2丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E4%BA%8C%E8%91%891%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%BA%8C%E8%91%892%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%BA%83%E7%94%BA2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>二葉1丁目全域、二葉2丁目(一部)、大井2丁目(一部)、広町2丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/24%E5%8F%B7%E6%A3%9F%EF%BD%9E50%E5%8F%B7%E6%A3%9F%E3%80%81%E5%85%AB%E6%BD%AE%E5%AF%AE_%E5%85%AB%E6%BD%AE5%E4%B8%81%E7%9B%AE6%E7%95%AA%E3%80%818%E7%95%AA%E3%80%8110%E7%95%AA_%E3%80%81%E5%85%AB%E6%BD%AE4%E4%B8%81%E7%9B%AE">
+    <rdfs:label>24号棟～50号棟、八潮寮(八潮5丁目6番、8番、10番)、八潮4丁目</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%A5%BF%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%8D%8F%E5%8E%9F2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A5%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B9%B3%E5%A1%9A1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B9%B3%E5%A1%9A3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>西中延1丁目(一部)、東中延1丁目全域、荏原2丁目(一部)、戸越5丁目(一部)、平塚1丁目(一部)、平塚3丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%B5%9C%E5%B7%9D%E5%B0%8F%E5%AD%A6%E6%A0%A135.59828139.736203">
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:address>品川区南大井4-3-27</jrrk:address>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.59828</geo:lat>
+    <jrrk:notesAboutTarget>大井寺下町会、△南大井第四町会、△大井南浜町会、</jrrk:notesAboutTarget>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%8D%97%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%954%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%955%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <rdfs:label xml:lang="ja">浜川小学校</rdfs:label>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.736203</geo:long>
+    <rdfs:label xml:lang="en">Hamakawa E. Sch.</rdfs:label>
+    <schema:telephone>03-3761-0530</schema:telephone>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E4%BA%AC%E9%99%BD%E5%B0%8F%E5%AD%A6%E6%A0%A135.615116139.713079">
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:notesAboutTarget>平塚1丁目町会、平塚2丁目町会、中原共和町会</jrrk:notesAboutTarget>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%B9%B3%E5%A1%9A1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B9%B3%E5%A1%9A2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%8D%8F%E5%8E%9F1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <rdfs:label xml:lang="ja">京陽小学校</rdfs:label>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.713079</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.615116</geo:lat>
+    <jrrk:address>品川区平塚2-19-20</jrrk:address>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <schema:telephone>03-3781-0058</schema:telephone>
+    <rdfs:label xml:lang="en">Keiyo E. Sch.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E8%8D%8F%E5%8E%9F%E7%AC%AC%E5%85%AD%E4%B8%AD%E5%AD%A6%E6%A0%A135.616363139.699877">
+    <schema:telephone>03-3781-7776</schema:telephone>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%B0%8F%E5%B1%B15%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:notesAboutTarget>小山5丁目町会</jrrk:notesAboutTarget>
+    <rdfs:label xml:lang="en">Ebara-dai-roku Jr. H. Sch.</rdfs:label>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.699877</geo:long>
+    <jrrk:address>品川区小山5-20-19</jrrk:address>
+    <rdfs:label xml:lang="ja">荏原第六中学校</rdfs:label>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.616363</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%B1%8A%E7%94%BA4%E4%B8%81%E7%9B%AE%EF%BC%88%E4%B8%80%E9%83%A8%EF%BC%89%E3%80%81%E8%B1%8A%E7%94%BA5%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%BA%8C%E8%91%892%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%BA%8C%E8%91%893%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>豊町4丁目（一部）、豊町5丁目全域、二葉2丁目(一部)、二葉3丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/category/%E5%BA%83%E5%9F%9F%E9%81%BF%E9%9B%A3%E5%A0%B4%E6%89%80">
+    <rdfs:label>広域避難場所</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%9D%B1%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%953%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>東大井2丁目(一部)、東大井3丁目(一部)、東大井6丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%9D%B1%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>東大井1丁目(一部)、東大井2丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%93%81%E5%B7%9D%E5%AD%A6%E5%9C%9235.61805139.737982">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.61805</geo:lat>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:telephone>03-3474-2671</schema:telephone>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:notesAboutTarget>北品川2丁目町会、北品川3丁目親和会、都営南品川アパート自治会</jrrk:notesAboutTarget>
+    <jrrk:address>品川区北品川3-9-30</jrrk:address>
+    <rdfs:label xml:lang="en">Integrated E. &amp; Jr. H. Sch. Shinagawa-gakuen</rdfs:label>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.737982</geo:long>
+    <rdfs:label xml:lang="ja">品川学園</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B01%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B04%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B05%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%B8%8A%E5%A4%A7%E5%B4%8E1%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%B8%8A%E5%A4%A7%E5%B4%8E2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%B8%8A%E5%A4%A7%E5%B4%8E3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>東五反田1丁目(一部)、東五反田3丁目(一部)、東五反田4丁目(一部)、東五反田5丁目(一部)、上大崎1丁目全域、上大崎2丁目全域、上大崎3丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%BE%A1%E6%AE%BF%E5%B1%B1%E5%B0%8F%E5%AD%A6%E6%A0%A135.623133139.731772">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.731772</geo:long>
+    <jrrk:notesAboutTarget>袖ケ崎新興会、御殿山町会、小関親睦会</jrrk:notesAboutTarget>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdfs:label xml:lang="en">Gotenyama E. Sch.</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.623133</geo:lat>
+    <schema:telephone>03-3441-0674</schema:telephone>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdfs:label xml:lang="ja">御殿山小学校</rdfs:label>
+    <jrrk:address>品川区北品川5-2-6</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D5%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D6%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B02%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/rdf/jp/tokyo/shinagawa/212.rdf">
+    <schema:version rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.1</schema:version>
+    <dcterms:modified>2014-11-19</dcterms:modified>
+    <dcterms:created>2014-11-14</dcterms:created>
+    <dc:creator>東京都品川区</dc:creator>
+    <dc:title>避難所</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>北品川2丁目(一部)、北品川3丁目全域、北品川4丁目(一部)、南品川4丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%97%97%E3%81%AE%E5%8F%B02%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B06%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>旗の台2丁目全域、旗の台6丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%9F%8E%E5%8D%97%E5%B0%8F%E5%AD%A6%E6%A0%A135.613329139.742746">
+    <jrrk:address>品川区南品川2-8-21</jrrk:address>
+    <jrrk:notesAboutTarget>真交町会、博友町会、諏訪町会、明睦会、三睦会町会</jrrk:notesAboutTarget>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.613329</geo:lat>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdfs:label xml:lang="en">Jonan E. Sch.</rdfs:label>
+    <schema:telephone>03-3471-6000</schema:telephone>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.742746</geo:long>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%8D%97%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D5%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <rdfs:label xml:lang="ja">城南小学校</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%8D%97%E5%A4%A7%E4%BA%953%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%955%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>南大井3丁目全域、南大井5丁目(一部)、南大井6丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%B1%8A%E7%94%BA3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%B1%8A%E7%94%BA4%E4%B8%81%E7%9B%AE%EF%BC%88%E4%B8%80%E9%83%A8%EF%BC%89">
+    <rdfs:label>豊町3丁目全域、豊町4丁目（一部）</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%B1%B1%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%A0%A135.602788139.729925">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.729925</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.602788</geo:lat>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:address>品川区大井3-7-19</jrrk:address>
+    <rdfs:label xml:lang="ja">山中小学校</rdfs:label>
+    <rdfs:label xml:lang="en">Yamanaka E. Sch.</rdfs:label>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E4%BA%953%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%BA%8C%E8%91%891%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <schema:telephone>03-3772-3006</schema:telephone>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:notesAboutTarget>大井一丁目権現町会、大井一丁目鎧町会、大井三丁目町会、大井森下町会、大井二丁目町会</jrrk:notesAboutTarget>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%8D%8F%E5%8E%9F2%EF%BD%9E5%E4%B8%81%E7%9B%AE%E3%80%811%E3%80%816%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E5%B0%8F%E5%B1%B11%EF%BD%9E5%E4%B8%81%E7%9B%AE%E3%80%81%E5%B0%8F%E5%B1%B1%E5%8F%B01%EF%BD%9E2%E4%B8%81%E7%9B%AE%E3%80%81%E6%88%B8%E8%B6%8A5%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE%E3%80%812%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E8%A5%BF%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B04%EF%BD%9E5%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E6%9D%B1%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE%E3%80%81%E5%B9%B3%E5%A1%9A1%EF%BD%9E3%E4%B8%81%E7%9B%AE">
+    <rdfs:label>荏原2～5丁目、1、6丁目の各一部、小山1～5丁目、小山台1～2丁目、戸越5丁目の一部、中延1丁目、2丁目の一部、西中延1丁目、西五反田4～5丁目の各一部、東中延1丁目、平塚1～3丁目</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E8%8D%8F%E5%8E%9F%E7%AC%AC%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%A0%A135.619447139.712868">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.619447</geo:lat>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%8D%8F%E5%8E%9F1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:address>品川区荏原1-24-30</jrrk:address>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:telephone>03-3785-1680</schema:telephone>
+    <rdfs:label xml:lang="en">Ebara-dai-ichi Jr. H. Sch.</rdfs:label>
+    <rdfs:label xml:lang="ja">荏原第一中学校</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:notesAboutTarget>荏原1丁目町会、荏原2丁目町会</jrrk:notesAboutTarget>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.712868</geo:long>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%B0%8F%E5%B1%B1%E5%8F%B0%E5%B0%8F%E5%AD%A6%E6%A0%A135.622793139.703471">
+    <schema:telephone>03-3712-7692</schema:telephone>
+    <jrrk:notesAboutTarget>小山台1丁目町会、小山台1丁目東町会、小山台2丁目町会</jrrk:notesAboutTarget>
+    <rdfs:label xml:lang="ja">小山台小学校</rdfs:label>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%B0%8F%E5%B1%B1%E5%8F%B01%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%B0%8F%E5%B1%B1%E5%8F%B02%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:address>品川区小山台1-18-24</jrrk:address>
+    <rdfs:label xml:lang="en">Koyamadai E. Sch.</rdfs:label>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.703471</geo:long>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.622793</geo:lat>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%A4%A7%E5%B4%8E%E9%A7%85%E8%A5%BF%E5%8F%A3%E5%9C%B0%E5%8C%BA%E4%B8%80%E5%B8%AF35.618461139.727625">
+    <schema:description xml:lang="ja">大地震時に発生する延焼火災等の危険から避難者の身の安全を確保し、火勢の弱まりを待つ場所</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.727625</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.618461</geo:lat>
+    <jrrk:address>品川区大崎</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%A4%A7%E5%B4%8E2%EF%BD%9E3%E4%B8%81%E7%9B%AE%E3%80%814%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E5%BA%83%E5%9F%9F%E9%81%BF%E9%9B%A3%E5%A0%B4%E6%89%80"/>
+    <rdfs:label xml:lang="ja">大崎駅西口地区一帯</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%A4%A7%E4%BA%95%E7%AC%AC%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%A0%A135.598722139.731187">
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%A4%A7%E4%BA%954%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E4%BA%957%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.598722</geo:lat>
+    <schema:telephone>03-3771-5240</schema:telephone>
+    <rdfs:label xml:lang="ja">大井第一小学校</rdfs:label>
+    <jrrk:address>品川区大井6-1-32</jrrk:address>
+    <jrrk:notesAboutTarget>大井鹿島町会、大井庚塚町会、大井倉田町会</jrrk:notesAboutTarget>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.731187</geo:long>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdfs:label xml:lang="en">Oi-dai-ichi E. Sch.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E8%8D%8F%E5%8E%9F%E7%AC%AC%E4%BA%94%E4%B8%AD%E5%AD%A6%E6%A0%A135.603156139.702102">
+    <jrrk:notesAboutTarget>旗の台3丁目町会、旗の台5丁目町会、旗の台南町会</jrrk:notesAboutTarget>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.603156</geo:lat>
+    <schema:telephone>03-3781-5643</schema:telephone>
+    <rdfs:label xml:lang="ja">荏原第五中学校</rdfs:label>
+    <rdfs:label xml:lang="en">Ebara-dai-go Jr. H. Sch.</rdfs:label>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:address>品川区旗の台5-11-13</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%97%97%E3%81%AE%E5%8F%B03%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B05%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B06%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.702102</geo:long>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E8%B1%8A%E8%91%89%E3%81%AE%E6%9D%9C%E5%AD%A6%E5%9C%9235.607287139.725687">
+    <jrrk:notesAboutTarget>二葉1丁目町会、二葉神明町会、二葉2丁目町会、二葉中央町会（一部）</jrrk:notesAboutTarget>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E4%BA%8C%E8%91%891%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%BA%8C%E8%91%892%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%BA%83%E7%94%BA2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.607287</geo:lat>
+    <schema:telephone>03-3782-2930</schema:telephone>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.725687</geo:long>
+    <jrrk:address>品川区二葉1-3-40</jrrk:address>
+    <rdfs:label xml:lang="ja">豊葉の杜学園</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D5%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>北品川1丁目全域、北品川2丁目(一部)、東品川1丁目(一部)、東品川2丁目全域、東品川5丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%9D%B1%E6%B5%B7%E4%B8%AD%E5%AD%A6%E6%A0%A135.612621139.748971">
+    <jrrk:address>品川区東品川3-30-15</jrrk:address>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.612621</geo:lat>
+    <jrrk:notesAboutTarget>東品川第一自治会、都営東品川第3アパート自治会、△東親会、自治八潮会</jrrk:notesAboutTarget>
+    <rdfs:label xml:lang="en">Tokai Jr. H. Sch.</rdfs:label>
+    <rdfs:label xml:lang="ja">東海中学校</rdfs:label>
+    <schema:telephone>03-3471-6951</schema:telephone>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%9D%B1%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.748971</geo:long>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2%E5%9C%92%E3%83%BB%E8%81%96%E5%BF%83%E5%A5%B3%E5%AD%90%E5%AD%A6%E9%99%A2%E4%B8%80%E5%B8%AF35.636276139.720726">
+    <schema:description xml:lang="ja">大地震時に発生する延焼火災等の危険から避難者の身の安全を確保し、火勢の弱まりを待つ場所</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.720726</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.636276</geo:lat>
+    <jrrk:address>港区白金、白金台</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%8D%8F%E5%8E%9F1%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E4%B8%8A%E5%A4%A7%E5%B4%8E1%EF%BD%9E4%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B03%E3%80%815%E3%80%816%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B04%E4%B8%81%E7%9B%AE%E3%80%81%E2%91%A03%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E5%BA%83%E5%9F%9F%E9%81%BF%E9%9B%A3%E5%A0%B4%E6%89%80"/>
+    <rdfs:label xml:lang="ja">自然教育園・聖心女子学院一帯</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%9D%B1%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D1%E3%80%813%E4%B8%81%E7%9B%AE%E3%80%812%E3%80%814%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8">
+    <rdfs:label>東品川1丁目、南品川4丁目の一部、北品川1、3丁目、2、4丁目の各一部</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E4%B8%AD%E5%BB%B6%E5%B0%8F%E5%AD%A6%E6%A0%A135.612567139.709502">
+    <schema:telephone>03-3781-4031</schema:telephone>
+    <rdfs:label xml:lang="en">Nakanobu E. Sch.</rdfs:label>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.709502</geo:long>
+    <jrrk:notesAboutTarget>中延1丁目町会、西中延1丁目町会</jrrk:notesAboutTarget>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.612567</geo:lat>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:address>品川区中延1-11-15</jrrk:address>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <rdfs:label xml:lang="ja">中延小学校</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%B8%AD%E5%BB%B63%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E4%B8%AD%E5%BB%B63%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>中延2丁目(一部)、中延3丁目全域、西中延2丁目全域、西中延3丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B01%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B02%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B05%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B01%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B02%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>東五反田1丁目(一部)、東五反田2丁目(一部)、東五反田3丁目(一部)、東五反田5丁目(一部)、西五反田1丁目(一部)、西五反田2丁目(一部)、西五反田3丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%97%A7%E8%8D%8F%E5%8E%9F%E7%AC%AC%E5%9B%9B%E4%B8%AD%E5%AD%A6%E6%A0%A135.609009139.721045">
+    <jrrk:notesAboutTarget>豊町3丁目町会、豊町4丁目町会（一部）</jrrk:notesAboutTarget>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.609009</geo:lat>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdfs:label xml:lang="ja">旧荏原第四中学校</rdfs:label>
+    <rdfs:label xml:lang="en">Ebara-dai-yon Jr. H. Sch.</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%B1%8A%E7%94%BA3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%B1%8A%E7%94%BA4%E4%B8%81%E7%9B%AE%EF%BC%88%E4%B8%80%E9%83%A8%EF%BC%89"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.721045</geo:long>
+    <jrrk:address>品川区豊町3-5-31</jrrk:address>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%AB%E3%83%A0%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%8E%9F35.599255139.721865">
+    <jrrk:address>品川区西大井2-5-21</jrrk:address>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.721865</geo:long>
+    <rdfs:label xml:lang="ja">ウェルカムセンター原</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.599255</geo:lat>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%A4%A7%E4%BA%957%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%953%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <rdfs:label xml:lang="en">Welcome Ctr. Hara</rdfs:label>
+    <jrrk:notesAboutTarget>出石町会、西大井二丁目町会</jrrk:notesAboutTarget>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <schema:telephone>03-5742-4660</schema:telephone>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E4%BC%8A%E8%97%A4%E5%B0%8F%E5%AD%A6%E6%A0%A135.598755139.717279">
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.717279</geo:long>
+    <rdfs:label xml:lang="ja">伊藤小学校</rdfs:label>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%A5%BF%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%954%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdfs:label xml:lang="en">Ito E. Sch.</rdfs:label>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:address>品川区西大井5-6-8</jrrk:address>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.598755</geo:lat>
+    <jrrk:notesAboutTarget>西大井四丁目町会、西大井六丁目町会</jrrk:notesAboutTarget>
+    <schema:telephone>03-3771-5289</schema:telephone>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%8D%8F%E5%8E%9F1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>荏原1丁目(一部)、荏原2丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E7%AC%AC%E4%B8%80%E6%97%A5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A135.622168139.716098">
+    <schema:telephone>03-3492-6259</schema:telephone>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdfs:label xml:lang="ja">第一日野小学校</rdfs:label>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:notesAboutTarget>西五反田一丁目町会、西五反田本町会、西五反田七・五・三町会、西五反田西二町会、西五反田協和町会、西五反田六丁目町会、西五反田南町会</jrrk:notesAboutTarget>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.622168</geo:lat>
+    <rdfs:label xml:lang="en">Dai-ichi-hino E. Sch.</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:address>品川区西五反田6-5-32</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B01%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B02%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B05%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B06%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B07%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B08%E4%B8%81%E7%9B%AE%E3%80%81%E5%A4%A7%E5%B4%8E4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.716098</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%B5%85%E9%96%93%E5%8F%B0%E5%B0%8F%E5%AD%A6%E6%A0%A135.611484139.736494">
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <schema:telephone>03-3474-2727</schema:telephone>
+    <jrrk:notesAboutTarget>東睦会、南品川南睦会、同友会町会、六丁目睦会</jrrk:notesAboutTarget>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%8D%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D5%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D6%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%BA%83%E7%94%BA1%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.736494</geo:long>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.611484</geo:lat>
+    <rdfs:label xml:lang="ja">浅間台小学校</rdfs:label>
+    <rdfs:label xml:lang="en">Asamadai E. Sch.</rdfs:label>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:address>品川区南品川6-8-8</jrrk:address>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E4%B8%89%E6%9C%A8%E5%B0%8F%E5%AD%A6%E6%A0%A135.615528139.726856">
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.726856</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.615528</geo:lat>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:notesAboutTarget>西品川三栄会、協力睦会、西品川新生会、西品川三ツ木会</jrrk:notesAboutTarget>
+    <rdfs:label xml:lang="ja">三木小学校</rdfs:label>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%A5%BF%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%B1%8A%E7%94%BA1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:address>品川区西品川3-16-28</jrrk:address>
+    <rdfs:label xml:lang="en">Mitsugi E. Sch.</rdfs:label>
+    <schema:telephone>03-3491-0404</schema:telephone>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%8D%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D5%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D6%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%BA%83%E7%94%BA1%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>南品川2丁目(一部)、南品川4丁目(一部)、南品川5丁目(一部)、南品川6丁目全域、広町1丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E4%BA%953%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%BA%8C%E8%91%891%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>大井1丁目全域、大井2丁目全域、大井3丁目全域、二葉1丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%B0%8F%E5%B1%B1%E5%B0%8F%E5%AD%A6%E6%A0%A135.616002139.703249">
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%B0%8F%E5%B1%B13%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%B0%8F%E5%B1%B14%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%8D%8F%E5%8E%9F5%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.703249</geo:long>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdfs:label xml:lang="ja">小山小学校</rdfs:label>
+    <rdfs:label xml:lang="en">Koyama E. Sch.</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <schema:telephone>03-3781-0282</schema:telephone>
+    <jrrk:notesAboutTarget>小山3丁目町会、小山4丁目町会、荏原5丁目町会</jrrk:notesAboutTarget>
+    <jrrk:address>品川区小山5-10-6</jrrk:address>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.616002</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%B5%9C%E5%B7%9D%E4%B8%AD%E5%AD%A6%E6%A0%A135.6002139.737944">
+    <schema:telephone>03-3761-1014</schema:telephone>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.737944</geo:long>
+    <rdfs:label xml:lang="ja">浜川中学校</rdfs:label>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:address>品川区東大井3-18-34</jrrk:address>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.6002</geo:lat>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%9D%B1%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%953%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:notesAboutTarget>大井関ヶ原町会、北浜川西町会</jrrk:notesAboutTarget>
+    <rdfs:label xml:lang="en">Hamakawa Jr. H. Sch.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%88%B8%E8%B6%8A1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%88%B8%E8%B6%8A3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>戸越1丁目(一部)、戸越2丁目全域、戸越3丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80">
+    <rdfs:label>避難所</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%88%B8%E8%B6%8A6%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%951%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%81%E5%A4%A7%E4%BA%954%EF%BD%9E7%E4%B8%81%E7%9B%AE%E3%80%81%E4%B8%AD%E5%BB%B64%E3%80%816%E4%B8%81%E7%9B%AE%E3%80%815%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%951%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%81%E6%9D%B1%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%951%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%81%E4%BA%8C%E8%91%893%EF%BD%9E4%E4%B8%81%E7%9B%AE%E3%80%812%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E8%B1%8A%E7%94%BA4%EF%BD%9E6%E4%B8%81%E7%9B%AE">
+    <rdfs:label>戸越6丁目、西大井1～6丁目、大井4～7丁目、中延4、6丁目、5丁目の一部、東大井1～6丁目、東中延2丁目、南大井1～6丁目、二葉3～4丁目、2丁目の一部、豊町4～6丁目</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E3%81%93%E3%81%BF%E3%82%85%E3%81%AB%E3%81%A6%E3%81%83%E3%81%B7%E3%82%89%E3%81%96%E5%85%AB%E6%BD%AE35.5982139.752355">
+    <jrrk:address>品川区八潮5-9-11</jrrk:address>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:notesAboutTarget>八潮パークタウン潮路南第二ハイツ自治会、八潮パークタウン潮路南第一ハイツ自治会、八潮40号棟自治会、第41号棟自治会、42号棟自治会、八潮43号棟自治会、シティコープ八潮台自治会、八潮南47号棟自治会、八潮5丁目48号棟自治会、八潮49号棟自治会、50号棟自治会、八潮寮自治会</jrrk:notesAboutTarget>
+    <rdfs:label xml:lang="ja">こみゅにてぃぷらざ八潮</rdfs:label>
+    <schema:telephone>03-3799-2021</schema:telephone>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.752355</geo:long>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/24%E5%8F%B7%E6%A3%9F%EF%BD%9E50%E5%8F%B7%E6%A3%9F%E3%80%81%E5%85%AB%E6%BD%AE%E5%AF%AE_%E5%85%AB%E6%BD%AE5%E4%B8%81%E7%9B%AE6%E7%95%AA%E3%80%818%E7%95%AA%E3%80%8110%E7%95%AA_%E3%80%81%E5%85%AB%E6%BD%AE4%E4%B8%81%E7%9B%AE"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.5982</geo:lat>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D5%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%814%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B01%E3%80%813%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8">
+    <rdfs:label>北品川5～6丁目、4丁目の一部、東五反田1、3丁目の各一部</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%B0%8F%E5%B1%B15%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>小山5丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%8D%97%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%954%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%955%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>南大井1丁目(一部)、南大井4丁目(一部)、南大井5丁目(一部)、東大井6丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E7%AB%8B%E4%BC%9A%E5%B0%8F%E5%AD%A6%E6%A0%A135.604469139.740191">
+    <rdfs:label xml:lang="en">Tachiai E. Sch.</rdfs:label>
+    <schema:telephone>03-3474-4923</schema:telephone>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%9D%B1%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%953%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%954%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%955%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.604469</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.740191</geo:long>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <rdfs:label xml:lang="ja">立会小学校</rdfs:label>
+    <jrrk:address>品川区東大井4-15-9</jrrk:address>
+    <jrrk:notesAboutTarget>大井立会町会、東大井林町会、東大井月見台町会、鮫洲仲町会、△大井元芝町会</jrrk:notesAboutTarget>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%A5%BF%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>西品川2丁目(一部)、西品川3丁目(一部)、戸越1丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%9D%B1%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%953%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%954%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%955%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>東大井1丁目(一部)、東大井3丁目(一部)、東大井4丁目(一部)、東大井5丁目(一部)、東大井6丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%A4%A7%E5%B4%8E1%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E5%B4%8E2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E5%B4%8E3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E5%B4%8E4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%A4%A7%E5%B4%8E5%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>大崎1丁目全域、大崎2丁目全域、大崎3丁目全域、大崎4丁目(一部)、大崎5丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%85%AB%E6%BD%AE%E5%AD%A6%E5%9C%9235.601392139.75253">
+    <jrrk:notesAboutTarget>八潮11号棟自治会、八潮12号棟自治会、コーシャハイム八潮西自治会、シティコープ八潮浜自治会、潮路東ハイツ自治会、八潮58、59号棟自治会 八潮60号棟自治会、八潮わかくさ荘自治会、69号棟自治会、八潮パークタウン潮路北第1ハイツ自治会</jrrk:notesAboutTarget>
+    <schema:telephone>03-3799-1641</schema:telephone>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/11%E5%8F%B7%E6%A3%9F%EF%BD%9E23%E5%8F%B7%E6%A3%9F%E3%80%8151%EF%BD%9E69%E5%8F%B7%E6%A3%9F%E3%80%81%E5%85%AB%E6%BD%AE%E3%82%8F%E3%81%8B%E3%81%8F%E3%81%95%E8%8D%98_%E5%85%AB%E6%BD%AE5%E4%B8%81%E7%9B%AE3%EF%BD%9E5%E7%95%AA%E3%80%8110%EF%BD%9E12%E7%95%AA_"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.75253</geo:long>
+    <rdfs:label xml:lang="ja">八潮学園</rdfs:label>
+    <rdfs:label xml:lang="en">Integrated E. &amp; Jr. H. Sch. Yashio-gakuen </rdfs:label>
+    <jrrk:address>品川区八潮5-11-2</jrrk:address>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.601392</geo:lat>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%9F%8E%E5%8D%97%E7%AC%AC%E4%BA%8C%E5%B0%8F%E5%AD%A6%E6%A0%A135.615579139.74599">
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:address>品川区東品川3-4-5</jrrk:address>
+    <rdfs:label xml:lang="en">Jonan-dai-ni E. Sch.</rdfs:label>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.615579</geo:lat>
+    <jrrk:notesAboutTarget>△東親会、洌崎町会、櫻心会町会</jrrk:notesAboutTarget>
+    <rdfs:label xml:lang="ja">城南第二小学校</rdfs:label>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.74599</geo:long>
+    <schema:telephone>03-3471-7481</schema:telephone>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E6%9D%B1%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>東品川3丁目(一部)、東品川4丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%8D%97%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8B%9D%E5%B3%B61%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8B%9D%E5%B3%B62%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>南大井1丁目(一部)、南大井2丁目全域、勝島1丁目全域、勝島2丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%B1%8A%E7%94%BA6%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%BA%8C%E8%91%894%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%B8%AD%E5%BB%B64%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>豊町6丁目全域、二葉4丁目(一部)、西大井6丁目(一部)、中延4丁目(一部)、東中延2丁目(一部)、戸越6丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%A4%A7%E5%B4%8E2%EF%BD%9E3%E4%B8%81%E7%9B%AE%E3%80%814%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8">
+    <rdfs:label>大崎2～3丁目、4丁目の各一部</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%B8%85%E6%B0%B4%E5%8F%B0%E5%B0%8F%E5%AD%A6%E6%A0%A135.60742139.70233">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.70233</geo:long>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:telephone>03-3781-4841</schema:telephone>
+    <jrrk:notesAboutTarget>小山洗足町会、旗の台2丁目町会、旗の台西2丁目町会、旗の台6丁目町会、東洗足自治会</jrrk:notesAboutTarget>
+    <rdfs:label xml:lang="ja">清水台小学校</rdfs:label>
+    <jrrk:address>品川区旗の台1-11-17</jrrk:address>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <rdfs:label xml:lang="en">Shimizudai E. Sch.</rdfs:label>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.60742</geo:lat>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%97%97%E3%81%AE%E5%8F%B02%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B06%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%86%A8%E5%A3%AB%E8%A6%8B%E5%8F%B0%E4%B8%AD%E5%AD%A6%E6%A0%A135.598555139.715263">
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.598555</geo:lat>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%A5%BF%E5%A4%A7%E4%BA%955%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <schema:telephone>03-3772-0900</schema:telephone>
+    <rdfs:label xml:lang="ja">冨士見台中学校</rdfs:label>
+    <jrrk:address>品川区西大井5-5-14</jrrk:address>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:notesAboutTarget>西大井五丁目伊藤町会</jrrk:notesAboutTarget>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.715263</geo:long>
+    <rdfs:label xml:lang="en">Fujimidai Jr. H. Sch.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E9%88%B4%E3%82%B1%E6%A3%AE%E4%B8%AD%E5%AD%A6%E6%A0%A135.593149139.73778">
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.73778</geo:long>
+    <jrrk:address>品川区南大井2-3-14</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%8D%97%E5%A4%A7%E4%BA%951%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%952%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8B%9D%E5%B3%B61%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8B%9D%E5%B3%B62%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <jrrk:notesAboutTarget>△鈴ケ森町会、△大井海岸町会、勝島町会、勝島公務員住宅自治会、△大井南浜町会、△南大井第四町会、</jrrk:notesAboutTarget>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <rdfs:label xml:lang="en">Suzugamori Jr. H. Sch.</rdfs:label>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.593149</geo:lat>
+    <rdfs:label xml:lang="ja">鈴ケ森中学校</rdfs:label>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <schema:telephone>03-3765-2849</schema:telephone>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E7%AC%AC%E5%9B%9B%E6%97%A5%E9%87%8E%E5%B0%8F%E5%AD%A6%E6%A0%A135.625804139.712343">
+    <rdfs:label xml:lang="en">Dai-yon-hino E. Sch.</rdfs:label>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E4%B8%8A%E5%A4%A7%E5%B4%8E4%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B04%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%A5%BF%E4%BA%94%E5%8F%8D%E7%94%B05%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B0%8F%E5%B1%B11%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%B0%8F%E5%B1%B1%E5%8F%B01%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <jrrk:notesAboutTarget>夕陽会、大崎本町三丁目町会、西五反田四丁目町会、西五反田五丁目西三町会</jrrk:notesAboutTarget>
+    <rdfs:label xml:lang="ja">第四日野小学校</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.625804</geo:lat>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <schema:telephone>03-3491-1281</schema:telephone>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.712343</geo:long>
+    <jrrk:address>品川区西五反田4-29-9</jrrk:address>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%A4%A7%E5%B4%8E%E4%B8%AD%E5%AD%A6%E6%A0%A135.615836139.723011">
+    <rdfs:label xml:lang="en">Osaki Jr. H. Sch.</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <schema:telephone>03-3491-6623</schema:telephone>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:address>品川区西品川3-10-6</jrrk:address>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.615836</geo:lat>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%A5%BF%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <rdfs:label xml:lang="ja">大崎中学校</rdfs:label>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:notesAboutTarget>品川尚和会、西品川二丁目会</jrrk:notesAboutTarget>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.723011</geo:long>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%AE%AE%E5%89%8D%E5%B0%8F%E5%AD%A6%E6%A0%A135.611878139.718329">
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.611878</geo:lat>
+    <jrrk:notesAboutTarget>戸越3丁目町会、戸越4丁目町会、戸越5丁目町会</jrrk:notesAboutTarget>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%88%B8%E8%B6%8A3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A4%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%88%B8%E8%B6%8A5%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.718329</geo:long>
+    <jrrk:address>品川区戸越4-5-10</jrrk:address>
+    <rdfs:label xml:lang="en">Miyamae E. Sch.</rdfs:label>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdfs:label xml:lang="ja">宮前小学校</rdfs:label>
+    <schema:telephone>03-3781-4386</schema:telephone>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%88%B8%E8%B6%8A%E5%8F%B0%E4%B8%AD%E5%AD%A6%E6%A0%A135.615706139.717587">
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:notesAboutTarget>戸越銀座町会、戸越1丁目町会、戸越2丁目町会</jrrk:notesAboutTarget>
+    <rdfs:label xml:lang="en">Togoshidai Jr. H. Sch.</rdfs:label>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.615706</geo:lat>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.717587</geo:long>
+    <jrrk:address>品川区戸越1-15-23</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E6%88%B8%E8%B6%8A1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A2%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%88%B8%E8%B6%8A3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <rdfs:label xml:lang="ja">戸越台中学校</rdfs:label>
+    <schema:telephone>03-3781-6250</schema:telephone>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E5%A4%A7%E4%BA%95%E3%81%B5%E9%A0%AD%E4%B8%80%E5%B8%AF35.594188139.751807">
+    <schema:description xml:lang="ja">大地震時に発生する延焼火災等の危険から避難者の身の安全を確保し、火勢の弱まりを待つ場所</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.751807</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.594188</geo:lat>
+    <jrrk:address>品川区八潮、大田区城南島、東海</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E5%BA%83%E7%94%BA1%E4%B8%81%E7%9B%AE%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D1%EF%BD%9E3%E3%80%815%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%814%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E5%BA%83%E5%9F%9F%E9%81%BF%E9%9B%A3%E5%A0%B4%E6%89%80"/>
+    <rdfs:label xml:lang="ja">大井ふ頭一帯</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D4%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D5%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8C%97%E5%93%81%E5%B7%9D6%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B02%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B03%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>北品川4丁目(一部)、北品川5丁目全域、北品川6丁目全域、東五反田2丁目(一部)、東五反田3丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%97%97%E5%8F%B0%E5%B0%8F%E5%AD%A6%E6%A0%A135.603354139.704194">
+    <rdfs:label xml:lang="ja">旗台小学校</rdfs:label>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.704194</geo:long>
+    <rdfs:label xml:lang="en">Hatanodai E. Sch.</rdfs:label>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E4%B8%AD%E5%BB%B65%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B04%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F"/>
+    <jrrk:notesAboutTarget>中延5丁目町会、旗の台4丁目町会</jrrk:notesAboutTarget>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:address>品川区旗の台4-7-11</jrrk:address>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.603354</geo:lat>
+    <schema:telephone>03-3785-1729</schema:telephone>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%A5%BF%E4%B8%AD%E5%BB%B61%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%8D%8F%E5%8E%9F3%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E8%8D%8F%E5%8E%9F4%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F">
+    <rdfs:label>西中延1丁目(一部)、荏原3丁目全域、荏原4丁目全域</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E6%98%8E%E6%99%B4%E5%AD%A6%E5%9C%9235.603872139.753107">
+    <schema:telephone>03-6380-6775</schema:telephone>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.753107</geo:long>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdfs:label xml:lang="en">Meisei Gakuen</rdfs:label>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.603872</geo:lat>
+    <rdfs:label xml:lang="ja">明晴学園</rdfs:label>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:notesAboutTarget>八潮1号棟自治会、品川八潮2号棟自治会、八潮団地都営3号棟自治会、八潮4号棟自治会、品川八潮5号棟自治会、八潮ハイツ自治会、八潮パークタウン第7号棟自治会</jrrk:notesAboutTarget>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/1%E5%8F%B7%E6%A3%9F%EF%BD%9E10%E5%8F%B7%E6%A3%9F_%E5%85%AB%E6%BD%AE5%E4%B8%81%E7%9B%AE1%EF%BD%9E3%E7%95%AA_%E3%80%81%E5%93%81%E5%B7%9D%E7%B7%8F%E5%90%88%E7%A6%8F%E7%A5%89%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%80%81%E5%85%AB%E6%BD%AE1%E4%B8%81%E7%9B%AE%EF%BD%9E%E5%85%AB%E6%BD%AE3%E4%B8%81%E7%9B%AE"/>
+    <jrrk:address>品川区八潮5-2-1</jrrk:address>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E5%93%81%E5%B7%9D3%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D1%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%93%81%E5%B7%9D2%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>北品川2丁目(一部)、東品川1丁目(一部)、東品川3丁目(一部)、南品川1丁目(一部)、南品川2丁目(一部)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E4%B8%8A%E7%A5%9E%E6%98%8E%E5%B0%8F%E5%AD%A6%E6%A0%A135.60292135.602921">
+    <schema:telephone>03-3781-4633</schema:telephone>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <jrrk:address>品川区二葉4-4-10</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E8%B1%8A%E7%94%BA6%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E4%BA%8C%E8%91%894%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E8%A5%BF%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E4%B8%AD%E5%BB%B64%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%9D%B1%E4%B8%AD%E5%BB%B62%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E6%88%B8%E8%B6%8A6%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+    <rdfs:label xml:lang="en">Kami-shinmei E. Sch.</rdfs:label>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.602921</geo:long>
+    <rdfs:label xml:lang="ja">上神明小学校</rdfs:label>
+    <jrrk:notesAboutTarget>豊町6丁目町会、二葉4丁目町会、△東中三町会</jrrk:notesAboutTarget>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.602921</geo:lat>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E9%AB%98%E8%BC%AA%E4%B8%89%E4%B8%81%E7%9B%AE%E3%83%BB%E5%9B%9B%E4%B8%81%E7%9B%AE%E3%83%BB%E5%BE%A1%E6%AE%BF%E5%B1%B1%E5%9C%B0%E5%8C%BA35.6222139.737005">
+    <schema:description xml:lang="ja">大地震時に発生する延焼火災等の危険から避難者の身の安全を確保し、火勢の弱まりを待つ場所</schema:description>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.737005</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.6222</geo:lat>
+    <jrrk:address>港区高輪、品川区北品川</jrrk:address>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%8C%97%E5%93%81%E5%B7%9D5%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%814%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E6%9D%B1%E4%BA%94%E5%8F%8D%E7%94%B01%E3%80%813%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E5%BA%83%E5%9F%9F%E9%81%BF%E9%9B%A3%E5%A0%B4%E6%89%80"/>
+    <rdfs:label xml:lang="ja">高輪三丁目・四丁目・御殿山地区</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/jp/tokyo/shinagawa/212%E9%88%B4%E3%82%B1%E6%A3%AE%E5%B0%8F%E5%AD%A6%E6%A0%A135.594478139.735242">
+    <jrrk:notesAboutTarget>大井水神町会、大井坂下町会、大森駅前住宅自治会、△鈴ケ森町会、△大井海岸町会</jrrk:notesAboutTarget>
+    <schema:description xml:lang="ja">地震等による家屋の倒壊、焼失などで被害を受けた方、また、被害を受ける恐れのある方を一時的に受け入れ、保護するために開設するもの。</schema:description>
+    <jrrk:address>品川区南大井4-16-2</jrrk:address>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.735242</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.594478</geo:lat>
+    <rdf:type rdf:resource="http://purl.org/jrrk#EmergencyFacility"/>
+    <jrrk:category rdf:resource="http://odp.jig.jp/data/category/%E9%81%BF%E9%9B%A3%E6%89%80"/>
+    <rdfs:label xml:lang="ja">鈴ケ森小学校</rdfs:label>
+    <schema:telephone>03-3763-6631</schema:telephone>
+    <rdfs:label xml:lang="en">Suzugamori E. Sch.</rdfs:label>
+    <jrrk:target rdf:resource="http://odp.jig.jp/data/target/%E5%8D%97%E5%A4%A7%E4%BA%953%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%955%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_%E3%80%81%E5%8D%97%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E8%8D%8F%E5%8E%9F7%E4%B8%81%E7%9B%AE%E3%80%816%E4%B8%81%E7%9B%AE%E3%81%AE%E4%B8%80%E9%83%A8%E3%80%81%E6%97%97%E3%81%AE%E5%8F%B01%EF%BD%9E6%E4%B8%81%E7%9B%AE%E3%80%81%E5%B0%8F%E5%B1%B16%EF%BD%9E7%E4%B8%81%E7%9B%AE%E3%80%81%E8%A5%BF%E4%B8%AD%E5%BB%B62%EF%BD%9E3%E4%B8%81%E7%9B%AE%E3%80%81%E4%B8%AD%E5%BB%B63%E4%B8%81%E7%9B%AE%E3%80%812%E3%80%815%E4%B8%81%E7%9B%AE%E3%81%AE%E5%90%84%E4%B8%80%E9%83%A8">
+    <rdfs:label>荏原7丁目、6丁目の一部、旗の台1～6丁目、小山6～7丁目、西中延2～3丁目、中延3丁目、2、5丁目の各一部</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://odp.jig.jp/data/target/%E5%A4%A7%E4%BA%954%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E4%BA%956%E4%B8%81%E7%9B%AE%E5%85%A8%E5%9F%9F%E3%80%81%E5%A4%A7%E4%BA%957%E4%B8%81%E7%9B%AE_%E4%B8%80%E9%83%A8_">
+    <rdfs:label>大井4丁目全域、大井6丁目全域、大井7丁目(一部)</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
