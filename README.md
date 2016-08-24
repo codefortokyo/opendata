@@ -1,10 +1,9 @@
 東京都品川区オープンデータ
 --------
 
-本データは、東京都品川区が公開しているオープンデータを元にデータを作成しています。
+本データは、東京都品川区が公開しているオープンデータを元に作成しています。
 
 * [東京都品川区オープンデータ](http://www.city.shinagawa.tokyo.jp/hp/menu000024200/hpg000024168.htm)
-のデータを
 
 データ一覧
 ------
@@ -33,7 +32,9 @@
 
 ライセンス
 -----
-公開されているデータは[クリエイティブ・コモンズ 表示 2.1 日本 ライセンス](https://creativecommons.org/licenses/by/2.1/jp/)の下で公開しています。
 
-### shinagawa.geojson
-**shinagawa.geojson**ファイルは、[国土数値情報　行政区域データ](http://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03.html)を元に変換をしたものです。このデータの使用ライセンスに関しては、[国土数値情報利用約款](http://nlftp.mlit.go.jp/ksj/other/yakkan.html)に準拠します。
+本データは[クリエイティブ・コモンズ 表示 2.1 日本 ライセンス](https://creativecommons.org/licenses/by/2.1/jp/)での下で公開しています。
+
+### 品川行政区域データ(shinagawa.geojson)
+**shinagawa.geojson**ファイルは、[国土数値情報　行政区域データ](http://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03.html)を元に変換をしたものです。
+このデータの使用ライセンスに関しては、[国土数値情報利用約款](http://nlftp.mlit.go.jp/ksj/other/yakkan.html)に準拠します。
